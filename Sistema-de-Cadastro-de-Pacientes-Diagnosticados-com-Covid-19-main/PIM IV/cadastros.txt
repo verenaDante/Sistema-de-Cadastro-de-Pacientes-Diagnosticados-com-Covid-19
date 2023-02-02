@@ -1,0 +1,49 @@
+
+Nome: Verena
+CPF: 629.637.008-30
+Data de nascimento: 12/6/2004
+Telefone: 16 999956678
+CEP: 14801-310
+Rua: Rua Padre Duarte
+Número: 961
+Bairro: Centro
+Cidade: Araraquara
+Estado: SP
+Email: Verena.Teste@gmail.com
+Data do diagnostico: 12 de Novembro
+Comorbidade: NÃO
+Quais comorbidade(s)? Nenhum
+
+Nome: Valtomir
+CPF: 570.313.898-10
+Data de nascimento: 17/3/1952
+Telefone: 16 997827151
+CEP: 14806-245
+Rua: Rua Maur¡cio Galli
+Número: 2301
+Bairro: Jardim Imperador
+Cidade: Araraquara
+Estado: SP
+Email: Valtomir.Teste.idade@gmail.com
+Data do diagnostico: 23 de Setembro
+Comorbidade: NÃO
+Quais comorbidade(s)? Nenhum
+
+
+
+Nome: Cleber
+CPF: 514.086.048-17
+Data de nascimento: 4/9/2000
+Telefone: 16 994323354
+CEP: 14806-245
+Rua: Jardim Imperador
+Número: 4559
+Bairro: Jardim Imperador
+Cidade: Araraquara
+Estado: SP
+Email: Cleber.Comorbidade@gmail.com
+Data do diagnostico: 20 de Novembro
+Comorbidade: SIM
+Quais comorbidade(s)? Obesidade
+
+
